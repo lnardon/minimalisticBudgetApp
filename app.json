@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Minimalistic Budget App",
+    "description": "An simple and clean app to control your expenses based on your budget",
+    "slug": "snack-ByVYpFd7H",
+    "privacy": "unlisted",
+    "sdkVersion": "33.0.0",
+    "androidStatusBar": {
+      "translucent": true,
+      "barStyle": "light-content"
+    },
+    "ios": {
+      "bundleIdentifier": "com.llnstudios.myBudgetApp",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.llnstudios.myBudgetApp"
+    },
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/icn.png",
+    "loading": {
+      "icon": "./assets/icons/icon.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    }
+  }
+}
