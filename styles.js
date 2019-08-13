@@ -8,7 +8,8 @@ export default StyleSheet.create({
   },
   list: {
     marginTop: 25,
-    borderRadius: 30
+    borderRadius: 30,
+    height: '60%'
   },
   topCard: {
     alignItems: 'center',
